@@ -13,7 +13,7 @@
 
 (defun clear-until-beginning-of-screen()
   "Clear the screen until the beginning of the screen."
-  (format t "~C[0J" #\Esc))
+  (format t "~C[1J" #\Esc))
 
 (defun clear-full-line()
   "Clear the line."
