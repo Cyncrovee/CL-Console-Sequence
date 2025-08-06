@@ -1,0 +1,8 @@
+#+TITLE: CL Console Sequence
+#+DESCRIPTION: A library to interface with terminal functions in Common Lisp
+
+* About
+This is a common lisp library that contains functions to interface with terminals using ANSI codes.
+
+* License
+This project is licenced under the GNU General Public Licence version 3 ONLY.
